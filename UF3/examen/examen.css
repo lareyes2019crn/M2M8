@@ -1,0 +1,71 @@
+#bloc{
+  background-color: yellow;
+  width: 400px;
+}
+
+#primer{
+
+  width: 400px;
+  height:400px;
+  margin: 5px;
+  padding: 2px;
+
+}
+
+#segon{
+
+  width: 70px;
+  height: 70px;
+  float: left;
+  margin: 5px;
+  padding: 2px;
+}
+
+#tercer{
+
+  width: 250px;
+  height: 70px;
+  float: right;
+  margin: 5px;
+  padding: 2px;
+
+}
+
+#quart{
+
+  width: 400px;
+  height: 70px;
+  clear: left;
+  margin: 5px;
+  padding: 2px;
+}
+
+#cinque{
+
+  width: 400px;
+  height: 450px;
+  margin: 5px;
+  padding: 2px;
+}
+
+#sise{
+
+  width: 60px;
+  height:60px;
+  margin: 5px;
+padding: 1px;
+float: right;
+}
+
+#sete{
+
+  width: 400px;
+  height: 70px;
+  margin: 5px;
+  padding: 1px;
+  clear: right;
+
+}
+p{
+  font-size: 20px;
+}

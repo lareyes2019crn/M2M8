@@ -1,0 +1,64 @@
+body{
+  background-color: pink;
+}
+li{
+  display: inline;
+
+}
+ul{
+  text-align: right;
+}
+p{
+  color: red;
+  }
+
+
+.ex1{
+  display: none;
+}
+
+.ex2{
+  display: inline;
+  border: solid 5px black;
+  height: 300px;
+}
+
+.ex3{
+  display: block;
+}
+
+.ex4{
+  display: inline-block;
+  border: solid 5px black;
+  height: 300px;
+}
+
+#es{
+  float: left;
+  height: 250px;
+  width: 300px;
+}
+h1{
+  padding-left: 550px;
+}
+h2{
+  padding-left: 550px;
+
+
+}
+div{
+  padding: 550px;
+}
+#boto{
+  display: block;
+  color: blue;
+  background-color: rgba(0,255,0,0.2);
+  height: 100px;
+  width: 100px;
+  font-size: 14px;
+  text-align: center;
+  border-radius: 50px;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+}

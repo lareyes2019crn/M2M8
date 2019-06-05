@@ -1,0 +1,88 @@
+<script src="https://use.fontawesome.com/dca1703bd6.js"></script>
+
+Benvingut a Feedly
+
+El contingut que necessiteu per accelerar la vostra recerca, màrqueting i vendes.
+
+Comenceu de forma gratuïta
+
+AGAFA EL CONTROL
+Més senyal, menys soroll
+
+fa fa-map
+La teva publicació
+Ja sigui al New York Times, al Business Week, revistes sectorials o d’altres —no et perdis res de cap de les teves publicacions favorites.
+
+fa fa-th
+Els teus Blocs
+Capbussat profundament seguint els blocs amb els últims experts, agitadors i pensadors. Segueix a qualsevol al web.
+
+fa fa-youtube-play
+Els teus canals de YouTube
+Mira els nous vídeos dels canals de YouTube que segueixes - al mateix lloc on llegeixes la resta de notícies.
+
+fa fa-google
+Les teves alertes clau
+Monitoritza notícies sobre la teva empresa, el teu producte, la teva artesania i els teus competidors amb la connexió a les alertes de Google.
+
+fa fa-rss
+Els teus canals
+Troba més contingut en menys temps organitzant les teves fonts en fluxes de fàcil lectura.
+
+fa fa-lock
+El contingut de la teva companyia
+Assegura continguts privats dels portals interns de la teva empresa, gestors de continguts i aplicacions SaaS.
+
+INTEGRACIONS POTENTS
+Posa el contingut a treballar
+
+fa fa-sitemap
+Organitza
+Deixa que la web treballi per a tu per l'organització dels continguts que es basen en en col·leccions de fàcil lectura.
+
+fa fa-align-left
+Llegeix
+Feedly ofereix una experiència de lectura neta, minimalista optimitzada per a la productivitat.
+
+fa fa-search
+Cerca
+Aprofundeix en els articles específics que t’interessen dins del teu Feedly o dins d'una publicació específica.
+
+fa fa-bookmark-o
+Deixa per a més tard
+Desa articles i recupera’ls fàcilment. Etiqueta amb Feedly o utilitza serveis web favorits com Evernote, Pocket, i Instapaper.
+
+fa fa-share
+Comparteix
+Comparteix fàcilment articles a Facebook, Twitter, LinkedIn, Pinterest, correu electrònic i més. Missatges horaris amb Hootsuite o Buffer.
+
+fa fa-star-o
+Descobreix
+Descobreix veus fresques, amb autoritat sobre temes nínxol i generals per igual. Canalitza el corrent principal o tirar dels diamants en brut.
+
+COL·LABORACIÓ EN EQUIP
+Més intel·ligents junts
+
+fa fa-share-alt
+Comparteix informació
+Tria compartir el que es llegeix amb col·legues i xarxes. Descobreix el que altres líders d'opinió i companys d'equip llegeixen.
+
+fa fa-file-text-o
+Taulers compartits
+Treballa amb els teus companys d'equip per comissariar, comentari, i prioritzar els millors articles sobre temes i idees específiques.
+
+fa fa-steam
+Evernote negocis
+Racionalitza els teus esforços d’organització desant articles als blocs de notes compartits d’Evernote.
+
+fa fa-sticky-note-o
+OneNote 365
+Combustible els seus pensaments, idees, i dels articles de coses per fer per donar-li un avantatge en el treball, la llar i l'escola.
+
+fa fa-trello
+Trello
+enriquir els seus projectes, targetes i equips amb el contingut oportuna.
+
+fa fa-slack
+Slack
+Potencia el teu equip amb els articles que es van produint i promou converses interessants.
