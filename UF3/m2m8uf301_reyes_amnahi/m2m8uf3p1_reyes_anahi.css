@@ -1,0 +1,32 @@
+body{
+background-color: #DDD;
+margin: 0;
+padding: 0;
+
+}
+
+.libro{
+
+  text-align:  left;
+margin: 50px;
+padding: 10px;
+width: 500px;
+height: 500px;
+font-size: 15px;
+display: inline-block;
+}
+
+img{
+  height: 60%;
+  width: 45%;
+}
+
+.pet{
+  height: 10%;
+  width: 10%;
+  border-radius: 5px;
+}
+
+p{
+  text-align: 15px;
+}

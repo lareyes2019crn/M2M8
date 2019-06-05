@@ -1,0 +1,54 @@
+body{
+  background-color: #ECA;
+  margin: 0;
+  padding: 0;
+}
+
+div{
+  background-color: #9FA;
+}
+
+#header{
+  height: 200px;
+}
+
+
+#principal{
+
+  width: 70%;
+  float: left;
+  background-color: #ACE;
+}
+
+
+#lateral{
+
+  width: 30%;
+  float: right;
+  background-color: #FEA;
+}
+
+
+#peu{
+  height: 100px;
+  background-color: #9C3;
+  clear: both;
+}
+
+.num{
+  width: 30%;
+  height: 200px;
+  float: left;
+  margin:1%;
+ border: solid 5px #FFF;
+
+}
+
+.lat{
+  height: 150px;
+  margin: 1%;
+}
+h2{
+  margin-left: 50px 0 0 50px;
+  font-size: 5em;
+}
