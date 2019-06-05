@@ -1,0 +1,737 @@
+body{
+margin: 5px;
+padding: 0px;
+}
+
+#general{
+width: 100%;
+background-color: ;
+}
+
+#cielo{
+  background-color: cyan;
+  width: 100%
+  height:100px;
+  clear: both;
+}
+#fondo{
+  background-color: cyan;
+  height:100px;
+  width: 100%;
+
+}
+#sol{
+background:yellow;
+height:100px;
+width: 100px;
+border-radius: 100px;
+margin-left: 60%;
+
+
+
+}
+#florok{
+  background-color: #D2691E;
+  width: 100%;
+  height: 200px;
+  float: left;
+margin-top: -10px;
+  clear: both;
+}
+
+
+
+
+
+#flor{
+width: 200px;
+height: 200px;
+background-color:transparent;
+
+float: left;
+margin-left: 80px;
+margin-top: -80px;
+margin-right: 600px;
+position: relative;
+animation-name: flor;
+animation-duration: 4s;
+animation-iteration-count:infinite;
+animation-duration:alternate;
+
+}
+@keyframes flor{
+0%{
+transform: rotate(0);
+}
+100%{
+transform: rotate(360deg);
+}
+}
+
+
+#petalo1{
+width: 60px;
+height: 60px;
+border-radius: 0px 80px 0px 80px;
+background-color:	#FF1493;
+float: left;
+clear: both;
+
+}
+#petalo2{
+width: 60px;
+height: 60px;
+border-radius: 80px 0px 80px 0px;
+background-color: 	#FF1493;
+float: left;
+border: solid   1px red;
+}
+#petalo3{
+width: 60px;
+height: 60px;
+border-radius: 80px 0px 80px 0px;
+background-color: 	#FF1493;
+float: left;
+clear: both;
+border: solid   1px red;
+}
+#petalo4{
+width: 60px;
+height: 60px;
+border-radius: 0px 80px 0px 80px;
+background-color: 	#FF1493;
+float: left;
+border: solid   1px red;
+}
+#petalo5{
+width: 45px;
+height: 45px;
+border-radius: 0px 80px 0px 80px;
+transform:rotateZ(48deg);
+background-color: #DC143C;
+margin-top: -114px;
+margin-right: 114px;
+float: right;
+clear: both;
+border: solid   1px red;
+
+}
+#petalo6{
+width: 45px;
+height: 45px;
+border-radius: 0px 80px 0px 80px;
+transform:rotateZ(134deg);
+background-color: 	#DC143C;
+float: left;
+margin-left: 67px;
+margin-top: -83px;
+}
+#petalo7{
+width: 45px;
+height: 45px;
+border-radius: 0px 80px 0px 80px;
+transform:rotateZ(48deg);
+background-color: #DC143C;
+float: left;
+margin-left: 36px;
+margin-top: -54px;
+}
+#petalo8{
+width: 45px;
+height: 45px;
+border-radius: 0px 80px 0px 80px;
+transform:rotateZ(134deg);
+background-color:	#DC143C;
+float: left;
+margin-left: 10px;
+margin-top: -82px;
+
+}
+
+
+#palo{
+width: 13px;
+height: 100px;
+background: #3CB371;
+clear: both;
+float: left;
+margin-left: 50px;
+margin-top:-45px;
+}
+
+#flor2{
+width: 200px;
+height: 200px;
+background-color: ;
+clear: both;
+float: right;
+margin-top: -200px;
+margin-right: 600px;
+position: relative;
+animation-name: flor2;
+animation-duration: 4s;
+animation-iteration-count:infinite;
+animation-duration:alternate;
+
+}
+@keyframes flor2{
+0%{
+transform: rotate(0);
+}
+100%{
+transform: rotate(360deg);
+}
+}
+#petalo11{
+width: 60px;
+height: 60px;
+border-radius: 0px 80px 0px 80px;
+background-color:	#FF1493;
+float: left;
+clear: both;
+
+
+}
+#petalo22{
+width: 60px;
+height: 60px;
+border-radius: 80px 0px 80px 0px;
+background-color: 	#FF1493;
+float: left;
+border: solid   1px red;
+}
+#petalo33{
+width: 60px;
+height: 60px;
+border-radius: 80px 0px 80px 0px;
+background-color: 	#FF1493;
+float: left;
+clear: both;
+border: solid   1px red;
+}
+#petalo44{
+width: 60px;
+height: 60px;
+border-radius: 0px 80px 0px 80px;
+background-color: 	#FF1493;
+float: left;
+border: solid   1px red;
+}
+#petalo55{
+width: 45px;
+height: 45px;
+border-radius: 0px 80px 0px 80px;
+transform:rotateZ(48deg);
+background-color: #DC143C;
+margin-top: -115px;
+margin-right: 115px;
+float: right;
+clear: both;
+
+
+}
+#petalo66{
+width: 45px;
+height: 45px;
+border-radius: 0px 80px 0px 80px;
+transform:rotateZ(134deg);
+background-color: 	#DC143C;
+float: left;
+margin-left: 67px;
+margin-top: -83px;
+}
+#petalo77{
+width: 45px;
+height: 45px;
+border-radius: 0px 80px 0px 80px;
+transform:rotateZ(48deg);
+background-color: #DC143C;
+float: left;
+margin-left: 36px;
+margin-top: -54px;
+}
+#petalo88{
+width: 45px;
+height: 45px;
+border-radius: 0px 80px 0px 80px;
+transform:rotateZ(134deg);
+background-color:	#DC143C;
+float: left;
+margin-left: 10px;
+margin-top: -82px;
+
+}
+
+#palo1{
+width: 13px;
+height: 100px;
+background: #3CB371;
+clear: both;
+float: left;
+margin-left: 50px;
+margin-top:-45px;
+}
+
+
+#flor3{
+width: 200px;
+height: 200px;
+background-color: ;
+clear: both;
+float: right;
+margin-right: 29px;
+margin-top: -196px;
+
+
+position: relative;
+animation-name: flor3;
+animation-duration: 4s;
+animation-iteration-count:infinite;
+animation-duration:alternate;
+
+}
+@keyframes flor3{
+0%{
+transform: rotate(0);
+}
+100%{
+transform: rotate(360deg);
+}
+}
+
+
+#petalo111{
+width: 60px;
+height: 60px;
+border-radius: 0px 80px 0px 80px;
+background-color:	#FF1493;
+float: left;
+clear: both;
+}
+#petalo222{
+width: 60px;
+height: 60px;
+border-radius: 80px 0px 80px 0px;
+background-color: 	#FF1493;
+float: left;
+border: solid   1px red;
+}
+#petalo333{
+width: 60px;
+height: 60px;
+border-radius: 80px 0px 80px 0px;
+background-color: 	#FF1493;
+float: left;
+clear: both;
+border: solid   1px red;
+}
+#petalo444{
+width: 60px;
+height: 60px;
+border-radius: 0px 80px 0px 80px;
+background-color: 	#FF1493;
+float: left;
+border: solid   1px red;
+}
+#petalo555{
+width: 45px;
+height: 45px;
+border-radius: 0px 80px 0px 80px;
+transform:rotateZ(48deg);
+background-color: #DC143C;
+margin-top: -115px;
+margin-right: 115px;
+float: right;
+clear: both;
+
+}
+#petalo667{
+width: 45px;
+height: 45px;
+border-radius: 0px 80px 0px 80px;
+transform:rotateZ(134deg);
+background-color: 	#DC143C;
+float: left;
+margin-left: 67px;
+margin-top: -83px;
+}
+#petalo777{
+width: 45px;
+height: 45px;
+border-radius: 0px 80px 0px 80px;
+transform:rotateZ(48deg);
+background-color: #DC143C;
+float: left;
+margin-left: 36px;
+margin-top: -54px;
+}
+#petalo888{
+width: 45px;
+height: 45px;
+border-radius: 0px 80px 0px 80px;
+transform:rotateZ(134deg);
+background-color:	#DC143C;
+float: left;
+margin-left: 10px;
+margin-top: -82px;
+
+}
+
+#palo11{
+width: 13px;
+height: 100px;
+background: #3CB371;
+clear: both;
+float: left;
+margin-left: 50px;
+margin-top:-45px;
+}
+#montañas{
+background-color: cyan;
+width: 100%;
+height:300px;
+clear: both;
+
+}
+
+.mont1{
+width: 0;
+height: 0;
+border-right: 300px solid transparent;
+border-top:300px solid transparent;
+border-left: 300px solid transparent;
+border-bottom: 300px solid #228B22;
+clear: both;
+float: left;
+
+margin-top: -300px;
+}
+.mont2{
+width: 0;
+height: 0;
+border-right: 300px solid transparent;
+border-top:300px solid transparent;
+border-left: 300px solid transparent;
+border-bottom: 300px solid green;
+
+clear: both;
+float: left;
+margin-left: 350px;
+margin-top: -600px;
+}
+.mont3{
+width: 0;
+height: 0;
+border-right: 300px solid transparent;
+border-top:300px solid transparent;
+border-left: 300px solid transparent;
+border-bottom: 300px solid #228B22;
+clear: both;
+float: left;
+margin-left: 750px;
+margin-top: -600px;
+}
+#hormiga{
+  margin-top: -70px;
+  float: left;
+  clear: both;
+}
+#animal{
+
+background-position: 0 0;
+animation: animation 15s linear infinite;
+background-color: transparent;
+width: 40% ;
+height: 15px;
+clear: both;
+float: right;
+margin: 10px;
+margin-right:900px;
+margin-top: -96px;
+position: relative;
+animation-name: animal;
+animation-duration: 5s;
+animation-iteration-count: infinite;
+animation-direction:reverse;
+webkit-animation-name: animal;
+webkit-animation-duration: 5s;
+webkit-animation-iteration-count: infinite;
+webkit-animation-direction: reverse;
+
+}
+@keyframes animal{
+  0%{
+    left:1600px;
+  }
+  100%{
+    left:0px;
+  }
+}
+
+.cuerpo{
+background-color: brown;
+width: 60px;
+height: 60px;
+border-radius: 70px 10px 70px 10px;
+border: solid 1px  #DEB887;
+margin-top: 38px;
+margin-right: 317px;
+float: right;
+transform:rotateZ(198deg);
+}
+
+.cuerpo2{
+background-color: brown;
+width: 90px;
+height: 90px;
+margin-right:  441px;
+margin-top:-44px;
+border-radius: 70px 40px 70px 40px;
+border: solid 1px #DEB887;
+transform:rotateZ(214deg);
+float: right;
+clear: both;
+}
+
+.cuerpo3{
+background-color: brown;
+width: 90px;
+height: 90px;
+margin-top:  -96px;
+margin-right: 373px;
+border-radius: 70px 20px 70px 20px;
+border: solid 0.5px #DEB887;
+transform:rotateZ(218deg);
+float: right;
+clear: both;
+}
+.antena1{
+
+background-color: brown;
+width: 40px;
+height: 5px;
+
+border-radius: 0px 60px 60px 0px;
+margin-top: -111px;
+margin-right:   288px;
+float: right;
+transform: rotateZ(315deg);
+clear: both;
+
+
+}
+.antena2{
+background-color: brown;
+margin-bottom: 30px;
+width: 40px;
+height: 5px;
+border-radius:60px 0px 0px 60px;
+
+margin-right:    280px;
+margin-top: -98px;
+float: right;
+transform: rotateZ(159deg);
+clear: both;
+}
+.pata3{
+
+background-color: brown;
+width: 40px;
+height: 5px;
+border-radius:  60px 0px 0px 60px;
+
+margin-right: 488px;
+margin-top: -3px;
+transform: rotateZ(291deg);
+float: right;
+
+}
+
+.pata4{
+
+background-color: brown;
+width: 40px;
+height: 5px;
+border-radius:60px 0px 0px 60px;
+
+margin-right: 463px;
+margin-top: -5px;
+transform: rotateZ(241deg);
+float: right;
+float: right;
+}
+
+.pata5{
+background-color: brown;
+width: 40px;
+height: 5px;
+border-radius:60px 0px 0px 60px;
+
+margin-right:  420px;
+margin-top: -10px;
+transform: rotateZ(291deg);
+float: right;
+
+}
+
+.pata6{
+
+background-color: brown;
+width: 40px;
+height: 5px;
+border-radius:60px 0px 0px 60px;
+
+margin-right:  398px;
+margin-top:-10px;
+transform: rotateZ(241deg);
+float: right;
+
+}
+
+#animal2{
+background-color: transparent;
+width: 40% ;
+height: 15px;
+clear: both;
+float: right;
+margin: 10px;
+margin-right: 1100px;
+margin-top: -96px;
+position: relative;
+animation-name: animal2;
+animation-duration: 5s;
+animation-iteration-count: infinite;
+animation-direction:reverse;
+webkit-animation-name: animal2;
+webkit-animation-duration:5s;
+webkit-animation-iteration-count: infinite;
+webkit-animation-direction: reverse;
+
+}
+@keyframes animal2{
+  0%{
+    left:1600px;
+  }
+  100%{
+    left:0px;
+    }
+}
+
+.cuerpo1{
+background-color: brown;
+width: 60px;
+height: 60px;
+border-radius: 70px 10px 70px 10px;
+border: solid 1px  #DEB887;
+margin-top: 38px;
+margin-right: 317px;
+float: right;
+transform:rotateZ(198deg);
+}
+
+.cuerpo22{
+background-color: brown;
+width: 90px;
+height: 90px;
+margin-right:  441px;
+margin-top:-44px;
+border-radius: 70px 40px 70px 40px;
+border: solid 1px #DEB887;
+transform:rotateZ(214deg);
+float: right;
+clear: both;
+}
+
+.cuerpo33{
+background-color: brown;
+width: 90px;
+height: 90px;
+margin-top:  -96px;
+margin-right: 373px;
+border-radius: 70px 20px 70px 20px;
+border: solid 0.5px #DEB887;
+transform:rotateZ(218deg);
+float: right;
+clear: both;
+}
+.antena11{
+
+background-color: brown;
+width: 40px;
+height: 5px;
+
+border-radius: 0px 60px 60px 0px;
+margin-top: -111px;
+margin-right:   288px;
+float: right;
+transform: rotateZ(315deg);
+clear: both;
+
+
+}
+.antena22{
+background-color: brown;
+margin-bottom: 30px;
+width: 40px;
+height: 5px;
+border-radius:60px 0px 0px 60px;
+
+margin-right:    280px;
+margin-top: -98px;
+float: right;
+transform: rotateZ(159deg);
+clear: both;
+}
+.pata33{
+
+background-color: brown;
+width: 40px;
+height: 5px;
+border-radius:  60px 0px 0px 60px;
+
+margin-right: 488px;
+margin-top: -3px;
+transform: rotateZ(291deg);
+float: right;
+
+}
+
+.pata44{
+
+background-color: brown;
+width: 40px;
+height: 5px;
+border-radius:60px 0px 0px 60px;
+
+margin-right: 463px;
+margin-top: -5px;
+transform: rotateZ(241deg);
+float: right;
+float: right;
+}
+
+.pata55{
+background-color: brown;
+width: 40px;
+height: 5px;
+border-radius:60px 0px 0px 60px;
+
+margin-right:  420px;
+margin-top: -10px;
+transform: rotateZ(291deg);
+float: right;
+
+}
+
+.pata66{
+
+background-color: brown;
+width: 40px;
+height: 5px;
+border-radius:60px 0px 0px 60px;
+
+margin-right:  398px;
+margin-top:-10px;
+transform: rotateZ(241deg);
+float: right;
+}
